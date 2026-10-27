@@ -1,0 +1,234 @@
+[
+  {
+    "id": "panda_corsa_gt",
+    "manufacturer": "Panda Motors",
+    "model": "Corsa GT Rosso",
+    "year": 2026,
+    "category": "Supercars",
+    "display_name": "Panda Corsa 750 GT",
+    "short_description": "Mid-engine track-bred Italian supercar with aerodynamic carbon monocoque, twin-turbo V8, and active aerodynamics.",
+    "specifications": {
+      "engine": "4.0L Twin-Turbo V8",
+      "power_hp": 740,
+      "torque_nm": 800,
+      "top_speed_kmh": 332,
+      "accel_0_100": 2.8,
+      "drivetrain": "RWD",
+      "transmission": "7-Speed Dual-Clutch",
+      "weight_kg": 1389
+    },
+    "price_usd": 329500,
+    "asset_path": "assets/models/vehicles/ferrari.bam",
+    "scale": [1.0, 1.0, 1.0],
+    "rotation_offset": [0, 0, 0],
+    "position_offset": [0, 0, 0.05],
+    "zone_id": "main_showroom",
+    "platform_index": 0,
+    "available_colors": [
+      {"name": "Rosso Corsa", "hex": "#D41B26", "rgb": [0.83, 0.11, 0.15], "finish": "metallic"},
+      {"name": "Giallo Modena", "hex": "#FFD000", "rgb": [1.0, 0.81, 0.0], "finish": "gloss"},
+      {"name": "Nero Daytona", "hex": "#1A1A1A", "rgb": [0.1, 0.1, 0.1], "finish": "metallic"},
+      {"name": "Bianco Avus", "hex": "#F4F4F4", "rgb": [0.95, 0.95, 0.95], "finish": "gloss"},
+      {"name": "Blu Tour De France", "hex": "#153366", "rgb": [0.08, 0.20, 0.40], "finish": "metallic"}
+    ],
+    "features": [
+      "Carbon-ceramic matrix braking system",
+      "Active front and rear wing flaps",
+      "Panda Telemetry 2.0 with lap analysis",
+      "Electro-hydraulic fast steering rack"
+    ]
+  },
+  {
+    "id": "aventador_svj",
+    "manufacturer": "Panda SV",
+    "model": "Aventador SVJ Apex",
+    "year": 2026,
+    "category": "Hypercars",
+    "display_name": "Panda SV Hypercar Apex",
+    "short_description": "Naturally aspirated 6.5L V12 extreme hypercar featuring ALA 2.0 active aerodynamics and forged carbon aero parts.",
+    "specifications": {
+      "engine": "6.5L Naturally Aspirated V12",
+      "power_hp": 770,
+      "torque_nm": 720,
+      "top_speed_kmh": 352,
+      "accel_0_100": 2.7,
+      "drivetrain": "AWD",
+      "transmission": "7-Speed ISR Independent Shifting Rods",
+      "weight_kg": 1525
+    },
+    "price_usd": 517700,
+    "asset_path": "assets/models/vehicles/aventador.bam",
+    "scale": [0.133, 0.133, 0.133],
+    "rotation_offset": [90, 0, 0],
+    "position_offset": [0, 0, 0.05],
+    "zone_id": "hypercar_exhibition",
+    "platform_index": 1,
+    "available_colors": [
+      {"name": "Verde Alceo", "hex": "#50B83C", "rgb": [0.31, 0.72, 0.24], "finish": "matte"},
+      {"name": "Giallo Orion", "hex": "#FFBC00", "rgb": [1.0, 0.74, 0.0], "finish": "metallic"},
+      {"name": "Arancio Atlas", "hex": "#E85D04", "rgb": [0.91, 0.36, 0.02], "finish": "metallic"},
+      {"name": "Grigio Telesto", "hex": "#4D4F53", "rgb": [0.3, 0.31, 0.33], "finish": "gloss"},
+      {"name": "Viola Pasifae", "hex": "#4A154B", "rgb": [0.29, 0.08, 0.29], "finish": "metallic"}
+    ],
+    "features": [
+      "Aerodinamica Panda Attiva (APA 2.0)",
+      "Push-rod magnetorheological front and rear suspension",
+      "Rear-wheel dynamic active steering",
+      "Ultra-lightweight titanium exhaust system"
+    ]
+  },
+  {
+    "id": "porsche_911_gt3",
+    "manufacturer": "Panda Performance",
+    "model": "Carrera 4S Performance",
+    "year": 2026,
+    "category": "Sports coupes",
+    "display_name": "Panda Carrera 4S",
+    "short_description": "Pure driving dynamics icon with twin-turbo flat-six, rear-biased all-wheel drive, and wide-body stance.",
+    "specifications": {
+      "engine": "3.0L Twin-Turbo Boxer 6",
+      "power_hp": 450,
+      "torque_nm": 530,
+      "top_speed_kmh": 306,
+      "accel_0_100": 3.4,
+      "drivetrain": "AWD",
+      "transmission": "8-Speed PDK Dual-Clutch",
+      "weight_kg": 1565
+    },
+    "price_usd": 142000,
+    "asset_path": "assets/models/vehicles/porsche_911.bam",
+    "scale": [0.95, 0.95, 0.95],
+    "rotation_offset": [0, 0, 0],
+    "position_offset": [0, 0, 0.58],
+    "zone_id": "supercar_gallery",
+    "platform_index": 2,
+    "available_colors": [
+      {"name": "Carrara White Metallic", "hex": "#F0F0F2", "rgb": [0.94, 0.94, 0.95], "finish": "metallic"},
+      {"name": "Shark Blue", "hex": "#0D5C96", "rgb": [0.05, 0.36, 0.59], "finish": "gloss"},
+      {"name": "Guards Red", "hex": "#C9141D", "rgb": [0.79, 0.08, 0.11], "finish": "gloss"},
+      {"name": "GT Silver Metallic", "hex": "#A2A5A9", "rgb": [0.64, 0.65, 0.66], "finish": "metallic"},
+      {"name": "Jet Black Metallic", "hex": "#111213", "rgb": [0.07, 0.07, 0.08], "finish": "metallic"}
+    ],
+    "features": [
+      "Panda Active Suspension Management (PASM)",
+      "Panda Torque Vectoring Plus (PTV Plus)",
+      "Sport Chrono Package with mode switch",
+      "Lightweight insulated glass all around"
+    ]
+  },
+  {
+    "id": "jeep_cherokee_srt",
+    "manufacturer": "Panda Offroad",
+    "model": "Titan SRT-8 Grand",
+    "year": 2026,
+    "category": "SUVs",
+    "display_name": "Panda Titan SRT Luxury SUV",
+    "short_description": "High-performance luxury SUV combining ferocious V8 HEMI power, Brembo brakes, and sumptuous executive leather comfort.",
+    "specifications": {
+      "engine": "6.4L HEMI V8",
+      "power_hp": 475,
+      "torque_nm": 637,
+      "top_speed_kmh": 257,
+      "accel_0_100": 4.4,
+      "drivetrain": "Quadra-Trac Active 4WD",
+      "transmission": "8-Speed Torqueflite Automatic",
+      "weight_kg": 2336
+    },
+    "price_usd": 89900,
+    "asset_path": "assets/models/vehicles/jeep_srt8.bam",
+    "scale": [1.0, 1.0, 1.0],
+    "rotation_offset": [0, 0, 0],
+    "position_offset": [0, 0, 0.22],
+    "zone_id": "luxury_collection",
+    "platform_index": 3,
+    "available_colors": [
+      {"name": "Diamond Black Crystal", "hex": "#1C1D1F", "rgb": [0.11, 0.11, 0.12], "finish": "metallic"},
+      {"name": "Billet Silver", "hex": "#9DA0A5", "rgb": [0.62, 0.63, 0.65], "finish": "metallic"},
+      {"name": "Velvet Red Pearl", "hex": "#5E1914", "rgb": [0.37, 0.10, 0.08], "finish": "metallic"},
+      {"name": "Granite Crystal", "hex": "#43464B", "rgb": [0.26, 0.27, 0.29], "finish": "metallic"}
+    ],
+    "features": [
+      "Selec-Track adaptive damping suspension",
+      "Brembo 6-piston high performance brakes",
+      "Laguna full-grain leather performance seating",
+      "Harmon Kardon 19-speaker acoustic surround"
+    ]
+  },
+  {
+    "id": "charger_executive",
+    "manufacturer": "Panda Prestige",
+    "model": "Empress RT Sedan",
+    "year": 2026,
+    "category": "Luxury sedans",
+    "display_name": "Panda Empress RT Executive",
+    "short_description": "Muscular executive grand touring sedan delivering uncompromising presence, deep cabin serenity, and effortless cruising authority.",
+    "specifications": {
+      "engine": "5.7L V8 MDS VVT",
+      "power_hp": 370,
+      "torque_nm": 536,
+      "top_speed_kmh": 250,
+      "accel_0_100": 5.1,
+      "drivetrain": "RWD",
+      "transmission": "8-Speed Sport Automatic",
+      "weight_kg": 1968
+    },
+    "price_usd": 68500,
+    "asset_path": "assets/models/vehicles/charger_sedan.bam",
+    "scale": [100.0, 100.0, 100.0],
+    "rotation_offset": [0, 0, 0],
+    "position_offset": [0, 0, 0.0],
+    "zone_id": "luxury_collection",
+    "platform_index": 4,
+    "available_colors": [
+      {"name": "Graphite Grey", "hex": "#3A3D40", "rgb": [0.23, 0.24, 0.25], "finish": "metallic"},
+      {"name": "Pitch Black", "hex": "#0F0F10", "rgb": [0.06, 0.06, 0.06], "finish": "gloss"},
+      {"name": "Frostbite Blue", "hex": "#1F4E79", "rgb": [0.12, 0.31, 0.47], "finish": "metallic"},
+      {"name": "White Knuckle", "hex": "#ECECEC", "rgb": [0.93, 0.93, 0.93], "finish": "gloss"}
+    ],
+    "features": [
+      "Active exhaust acoustic valve tuning",
+      "Executive rear reclining heated massage seats",
+      "Head-up augmented reality holographic display",
+      "Acoustic laminated dual-pane glazing"
+    ]
+  },
+  {
+    "id": "cyber_vision_concept",
+    "manufacturer": "Panda EV",
+    "model": "Vision E-Quantum Concept",
+    "year": 2027,
+    "category": "Electric vehicles",
+    "display_name": "Panda Vision E-Quantum Concept",
+    "short_description": "Futuristic all-electric hyper-coupe with quad solid-state motors, intelligent digital aero surfaces, and 1,000 km range.",
+    "specifications": {
+      "engine": "Quad Electric Synchronous Motors",
+      "power_hp": 1150,
+      "torque_nm": 1350,
+      "top_speed_kmh": 360,
+      "accel_0_100": 1.95,
+      "drivetrain": "Torque-Vectoring e-AWD",
+      "transmission": "Single-Speed Direct Drive",
+      "weight_kg": 1720
+    },
+    "price_usd": 420000,
+    "asset_path": "assets/models/vehicles/car_concept.bam",
+    "scale": [1.0, 1.0, 1.0],
+    "rotation_offset": [0, 0, 0],
+    "position_offset": [0, 0, 0.05],
+    "zone_id": "electric_zone",
+    "platform_index": 5,
+    "available_colors": [
+      {"name": "Electric Cyan Pearl", "hex": "#00D2FF", "rgb": [0.0, 0.82, 1.0], "finish": "metallic"},
+      {"name": "Liquid Titanium", "hex": "#8A95A5", "rgb": [0.54, 0.58, 0.65], "finish": "metallic"},
+      {"name": "Stealth Obsidian", "hex": "#121418", "rgb": [0.07, 0.08, 0.09], "finish": "matte"},
+      {"name": "Solar Flare Gold", "hex": "#E0A938", "rgb": [0.88, 0.66, 0.22], "finish": "metallic"}
+    ],
+    "features": [
+      "120 kWh Solid-State Silicon Battery",
+      "800V Ultra-Fast 350kW Charging (10-80% in 12m)",
+      "Autonomous Neural Co-Pilot Level 4 Ready",
+      "Digital Glass Canopy with Smart Tinting"
+    ]
+  }
+]
+

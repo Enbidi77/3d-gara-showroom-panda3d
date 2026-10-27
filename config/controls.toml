@@ -1,0 +1,31 @@
+# Controls configuration for Panda Motors
+
+[keyboard]
+move_forward = "w"
+move_backward = "s"
+move_left = "a"
+move_right = "d"
+sprint = "shift"
+jump = "space"
+interact = "e"
+toggle_camera = "f"
+toggle_nav_menu = "tab"
+pause_menu = "escape"
+toggle_fullscreen = "f11"
+toggle_hud = "h"
+reset_camera = "r"
+
+[mouse]
+sensitivity_x = 0.15
+sensitivity_y = 0.12
+invert_y = false
+zoom_speed = 1.0
+
+[camera]
+first_person_height = 1.68
+third_person_distance = 4.2
+third_person_height = 2.1
+orbit_min_dist = 2.5
+orbit_max_dist = 12.0
+smooth_speed = 10.0
+

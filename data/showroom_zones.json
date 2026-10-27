@@ -1,0 +1,113 @@
+[
+  {
+    "id": "main_showroom",
+    "name": "Main Showroom",
+    "description": "Grand central atrium featuring monumental glass facade, reflective marble floors, and flagship displays.",
+    "camera_position": [0.0, -18.0, 5.5],
+    "camera_target": [0.0, 4.0, 1.2],
+    "player_spawn": [0.0, -14.0, 0.0, 0.0],
+    "display_platforms": [
+      {"index": 0, "radius": 4.5, "position": [0.0, 0.0, 0.18], "name": "Centerpiece Rotunda"}
+    ],
+    "tour_caption": "Welcome to Panda Motors Flagship Showroom. Featuring panoramic glass architecture overlooking the bay.",
+    "category_filter": "All Cars"
+  },
+  {
+    "id": "hypercar_exhibition",
+    "name": "Hypercar Exhibition",
+    "description": "Exclusive showcase dedicated to extreme power, radical aerodynamics, and V12 masterpieces.",
+    "camera_position": [14.0, 2.0, 4.0],
+    "camera_target": [12.0, 10.0, 1.0],
+    "player_spawn": [8.0, 4.0, 0.0, 45.0],
+    "display_platforms": [
+      {"index": 1, "radius": 4.0, "position": [12.0, 10.0, 0.18], "name": "Hypercar Apex Platform"}
+    ],
+    "tour_caption": "The Hypercar Exhibition features cutting-edge aero carbon composites and record-breaking performance.",
+    "category_filter": "Hypercars"
+  },
+  {
+    "id": "supercar_gallery",
+    "name": "Supercar Gallery",
+    "description": "Purebred track performers and high-revving sports icons beside the panoramic window.",
+    "camera_position": [-14.0, 2.0, 4.0],
+    "camera_target": [-12.0, 8.0, 1.0],
+    "player_spawn": [-8.0, 4.0, 0.0, -45.0],
+    "display_platforms": [
+      {"index": 2, "radius": 4.0, "position": [-12.0, 8.0, 0.18], "name": "Supercar West Podium"}
+    ],
+    "tour_caption": "The Supercar Gallery showcases legendary handling dynamics against the waterfront skyline backdrop.",
+    "category_filter": "Supercars"
+  },
+  {
+    "id": "luxury_collection",
+    "name": "Luxury Collection",
+    "description": "Sumptuous executive sedans and flagship performance SUVs built for ultimate comfort and presence.",
+    "camera_position": [16.0, -10.0, 4.0],
+    "camera_target": [14.0, -4.0, 1.0],
+    "player_spawn": [10.0, -8.0, 0.0, 60.0],
+    "display_platforms": [
+      {"index": 3, "radius": 4.2, "position": [14.0, -4.0, 0.18], "name": "Executive SUV Platform"},
+      {"index": 4, "radius": 4.0, "position": [20.0, 4.0, 0.18], "name": "Grand Touring Salon"}
+    ],
+    "tour_caption": "The Luxury Collection marries whisper-quiet bespoke craftsmanship with effortless power.",
+    "category_filter": "Luxury"
+  },
+  {
+    "id": "electric_zone",
+    "name": "Electric Mobility Zone",
+    "description": "Next-generation solid-state battery architecture and silent futuristic propulsion.",
+    "camera_position": [-16.0, -10.0, 4.0],
+    "camera_target": [-14.0, -4.0, 1.0],
+    "player_spawn": [-10.0, -8.0, 0.0, -60.0],
+    "display_platforms": [
+      {"index": 5, "radius": 4.0, "position": [-14.0, -4.0, 0.18], "name": "Vision EV Platform"}
+    ],
+    "tour_caption": "Electric Mobility Zone: pioneering the sustainable future with zero-emission hyper-efficiency.",
+    "category_filter": "Electric"
+  },
+  {
+    "id": "configurator_studio",
+    "name": "Vehicle Configuration Studio",
+    "description": "Studio lighting environment tailored for custom paint, wheel, and bespoke finish tailoring.",
+    "camera_position": [0.0, 5.0, 3.5],
+    "camera_target": [0.0, 0.0, 0.8],
+    "player_spawn": [0.0, -4.0, 0.0, 0.0],
+    "display_platforms": [],
+    "tour_caption": "In our Configuration Studio, clients customize paint shades, textures, and bespoke details.",
+    "category_filter": "All Cars"
+  },
+  {
+    "id": "customer_lounge",
+    "name": "Customer Lounge",
+    "description": "Private VIP mezzanine and designer lounge with designer sofas, refreshments, and brand video displays.",
+    "camera_position": [18.0, 12.0, 3.2],
+    "camera_target": [15.0, 15.0, 1.2],
+    "player_spawn": [16.0, 10.0, 0.0, 30.0],
+    "display_platforms": [],
+    "tour_caption": "Relax in the designer VIP lounge surrounded by architectural landscaping and ambient hospitality.",
+    "category_filter": "All Cars"
+  },
+  {
+    "id": "reception_center",
+    "name": "Reception & Info Center",
+    "description": "Front entry hospitality desk with concierge tablets, interactive brochures, and warm greeting wall.",
+    "camera_position": [0.0, -22.0, 3.0],
+    "camera_target": [0.0, -16.0, 1.2],
+    "player_spawn": [0.0, -20.0, 0.0, 0.0],
+    "display_platforms": [],
+    "tour_caption": "Our reception team provides digital concierge services and personalized showroom itineraries.",
+    "category_filter": "All Cars"
+  },
+  {
+    "id": "outdoor_display",
+    "name": "Outdoor Display Area",
+    "description": "Open-air lakeside terrace looking out across the sparkling water and mountain peaks.",
+    "camera_position": [-24.0, 0.0, 3.5],
+    "camera_target": [-18.0, 0.0, 1.2],
+    "player_spawn": [-22.0, 0.0, 0.0, 90.0],
+    "display_platforms": [],
+    "tour_caption": "Step outside to the lakeside terrace to enjoy natural daylight reflecting off the mountain bay.",
+    "category_filter": "All Cars"
+  }
+]
+

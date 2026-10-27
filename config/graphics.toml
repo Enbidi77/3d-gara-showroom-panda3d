@@ -1,0 +1,55 @@
+# Graphics presets and configuration for Panda Motors
+
+[presets.low]
+name = "Low"
+shadows = false
+shadow_map_size = 512
+msaa_samples = 0
+bloom = false
+reflections = false
+anisotropic_filtering = 1
+draw_distance = 150.0
+fps_target = 60
+
+[presets.medium]
+name = "Medium"
+shadows = true
+shadow_map_size = 1024
+msaa_samples = 2
+bloom = false
+reflections = true
+anisotropic_filtering = 4
+draw_distance = 250.0
+fps_target = 60
+
+[presets.high]
+name = "High"
+shadows = true
+shadow_map_size = 2048
+msaa_samples = 4
+bloom = true
+reflections = true
+anisotropic_filtering = 8
+draw_distance = 400.0
+fps_target = 60
+
+[presets.ultra]
+name = "Ultra"
+shadows = true
+shadow_map_size = 4096
+msaa_samples = 8
+bloom = true
+reflections = true
+anisotropic_filtering = 16
+draw_distance = 600.0
+fps_target = 60
+
+[active]
+preset = "high"
+resolution_x = 1280
+resolution_y = 720
+fullscreen = false
+fov = 65.0
+vsync = true
+gamma = 1.0
+
